@@ -48,7 +48,7 @@ test:
 about:
   home: https://r-lib.github.io/nanoparquet/
   dev_url: https://github.com/r-lib/nanoparquet
-  license: MIT + LICENSE file
+  license: MIT + file
   summary: Self-sufficient reader and writer for flat 'Parquet' files. Can read most 'Parquet' data types. Can write many 'R' data types, including factors and temporal types. See docs for limitations.
   license_family: MIT
   license_file:
