@@ -1,4 +1,4 @@
-{% set version = "0.4.0" %}
+{% set version = "0.4.1" %}
 {% set posix = 'm2-' if win else '' %}
 
 package:
@@ -9,7 +9,7 @@ source:
   url:
     - {{ cran_mirror }}/src/contrib/nanoparquet_{{ version }}.tar.gz
     - {{ cran_mirror }}/src/contrib/Archive/nanoparquet/nanoparquet_{{ version }}.tar.gz
-  sha256: 65453b9f4c6b8204d16c8e2f796c4ade586993d0700e39522f1cc80d7b3226bc
+  sha256: e8229a92234a5ba55ceb2bc47a586ab8ac3738a4399851d4cbffa591917e3e79
 
 build:
   number: 0

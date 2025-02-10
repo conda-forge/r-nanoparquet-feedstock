@@ -9,7 +9,7 @@ About r-nanoparquet
 
 Home: https://r-lib.github.io/nanoparquet/
 
-Package license: MIT
+Package license: MIT + file
 
 Summary: Self-sufficient reader and writer for flat 'Parquet' files. Can read most 'Parquet' data types. Can write many 'R' data types, including factors and temporal types. See docs for limitations.
 
@@ -20,7 +20,7 @@ About r-nanoparquet
 
 Home: https://r-lib.github.io/nanoparquet/
 
-Package license: MIT
+Package license: MIT + file
 
 Summary: Self-sufficient reader and writer for flat 'Parquet' files. Can read most 'Parquet' data types. Can write many 'R' data types, including factors and temporal types. See docs for limitations.
 
